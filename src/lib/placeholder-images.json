@@ -1,0 +1,77 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A majestic sturgeon, the source of high-end caviar, swimming in dark water.",
+      "imageUrl": "https://images.unsplash.com/photo-1753078951321-9c9961ec344d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8QmVsdWdhJTIwY2F2aWFyfGVufDB8fHx8MTc1ODExNDMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sturgeon fish"
+    },
+    {
+      "id": "caviar-showcase",
+      "description": "A stunning, high-contrast hero shot of an open Beluga caviar tin, glistening under a single light source.",
+      "imageUrl": "https://images.unsplash.com/photo-1757961048219-df1bbd0be167?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOXx8Y2F2aWFyfGVufDB8fHx8MTc1ODExMzk1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "caviar tin"
+    },
+    {
+      "id": "truffle-showcase",
+      "description": "A dramatic, close-up photograph of whole and sliced Black Summer Truffles on a dark, rustic surface.",
+      "imageUrl": "https://images.unsplash.com/photo-1642354609876-5386fea5e7fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxUcnVmZmxlfGVufDB8fHx8MTc1ODExNDAyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black truffles"
+    },
+    {
+      "id": "caviar-beluga",
+      "description": "Hero shot of Beluga caviar.",
+      "imageUrl": "https://images.unsplash.com/photo-1753078950439-c4e5b5bbc1ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXZpYXIlMjBiZWx1Z2F8ZW58MHx8fHwxNzU4MTE0NzU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beluga caviar"
+    },
+    {
+      "id": "caviar-ossetra",
+      "description": "Hero shot of Ossetra caviar.",
+      "imageUrl": "https://images.unsplash.com/photo-1757961048219-df1bbd0be167?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvc3NldHJhJTIwY2F2aWFyfGVufDB8fHx8MTc1ODExNTQ2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ossetra caviar"
+    },
+    {
+      "id": "caviar-baerii",
+      "description": "Hero shot of Baerii caviar.",
+      "imageUrl": "https://images.unsplash.com/photo-1605333396915-47ed6b68a00e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjYXZpYXJ8ZW58MHx8fHwxNzU4MTEzOTUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "baerii caviar"
+    },
+    {
+      "id": "truffle-page",
+      "description": "A high-contrast, artistic photograph of a hand holding a perfect Black Summer Truffle.",
+      "imageUrl": "https://images.unsplash.com/photo-1642354609876-5386fea5e7fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0cnVmZmxlfGVufDB8fHx8MTc1ODExNTY2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black truffle"
+    },
+    {
+      "id": "services-chef",
+      "description": "A professional, moody photograph of a chef inspecting a tin of caviar.",
+      "imageUrl": "https://picsum.photos/seed/8/1200/1200",
+      "imageHint": "chef caviar"
+    },
+    {
+      "id": "caviar-beluga-product",
+      "description": "An elegant close-up of Beluga caviar being served.",
+      "imageUrl": "https://picsum.photos/seed/9/1200/1200",
+      "imageHint": "serving beluga caviar"
+    },
+    {
+      "id": "caviar-ossetra-product",
+      "description": "A beautiful shot of Ossetra caviar in a mother-of-pearl spoon.",
+      "imageUrl": "https://picsum.photos/seed/10/1200/1200",
+      "imageHint": "ossetra caviar spoon"
+    },
+    {
+      "id": "caviar-baerii-product",
+      "description": "A tin of Baerii caviar, showing its fine, dark pearls.",
+      "imageUrl": "https://picsum.photos/seed/11/1200/1200",
+      "imageHint": "baerii caviar tin"
+    },
+    {
+      "id": "truffle-product",
+      "description": "A whole Black Summer Truffle next to delicate truffle shavings on a pasta dish.",
+      "imageUrl": "https://picsum.photos/seed/12/1200/1200",
+      "imageHint": "truffle pasta"
+    }
+  ]
+}

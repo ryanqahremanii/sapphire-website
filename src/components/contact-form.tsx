@@ -20,7 +20,7 @@ export function ContactForm() {
   const { toast } = useToast();
   const [errors, setErrors] = useState<{ [key: string]: string[] | undefined }>({});
 
-  const handleSubmit = async (event: FormEvent<HTMLFormElement>) => {
+  const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     const formData = new FormData(event.currentTarget);
     const formObject = Object.fromEntries(formData.entries());
